@@ -1,37 +1,48 @@
 /*
  * Ethan Hammond
- * Date
- * Description
- * TODO: Add animation speed controls
+ * 10/4/2016
+ * First Three.js project, create scene with cube and sphere, basic animations and UI
+ * TODO:
  */
 
 "use strict";
 function init() {
 
-    var stats = initStats();
+     var stats = initStats();
+
+    //Set change in animation speed per tick of UI element
+     var controls = new function() {
+         this.rotationSpeed = 0.02;
+         this.bouncingSpeed = 0.03;
+     }
+
+    //Create UI elements for each animation variable
+     var gui = new dat.GUI();
+     gui.add(controls, 'rotationSpeed',0,0.5);
+     gui.add(controls, 'bouncingSpeed',0,0.5);
 
     //Create a new scene
-	var scene = new THREE.Scene();
+	 var scene = new THREE.Scene();
 
     //Set camera position
-	var camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 1000);
+	 var camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 1000);
 
     //Create renderer and set size
-	var renderer = new THREE.WebGLRenderer();
-	renderer.setClearColorHex(0xaaaaaa);
-	renderer.setSize(window.innerWidth, window.innerHeight);
-	renderer.shadowMapEnabled = true;
+	 var renderer = new THREE.WebGLRenderer();
+	 renderer.setClearColorHex(0xaaaaaa);
+	 renderer.setSize(window.innerWidth, window.innerHeight);
+	 renderer.shadowMapEnabled = true;
 
     //Add coordinate axis
-	var axes = new THREE.AxisHelper( 20 );
-	scene.add(axes);
+	 var axes = new THREE.AxisHelper( 20 );
+	 scene.add(axes);
 
     //Set ground plane size and color
-	var planeGeometry = new THREE.PlaneGeometry(60,20,1,1);
-	var planeMaterial = new THREE.MeshLambertMaterial({color: 0xffffff});
+	 var planeGeometry = new THREE.PlaneGeometry(60,20,1,1);
+	 var planeMaterial = new THREE.MeshLambertMaterial({color: 0xffffff});
 
     //Position the plane and add it to the scene
-	var plane = new THREE.Mesh(planeGeometry,planeMaterial);
+	 var plane = new THREE.Mesh(planeGeometry,planeMaterial);
 	 plane.rotation.x=-0.5*Math.PI;
 	 plane.position.x = 15;
 	 plane.position.y = 0;
@@ -58,7 +69,7 @@ function init() {
 	 var sphereMaterial = new THREE.MeshLambertMaterial({color: 0x7777ff});
 	 var sphere = new THREE.Mesh(sphereGeometry,sphereMaterial);
 
-     //Position the sphere
+    //Position the sphere
 	 sphere.position.x = 20;
 	 sphere.position.y = 4;
 	 sphere.position.z = 2;
@@ -89,17 +100,16 @@ function init() {
 	 renderScene();
 
     function renderScene() {
-
         //Update FPS or render-time counter
         stats.update();
 
-        //Rotate the cube
-        cube.rotation.x += 0.02;
-        cube.rotation.y += 0.02;
-        cube.rotation.z += 0.02;
+        //Rotate the cube, speed set by UI
+        cube.rotation.x += controls.rotationSpeed;
+        cube.rotation.y += controls.rotationSpeed;
+        cube.rotation.z += controls.rotationSpeed;
 
-        //Bounce the sphere
-        step+=0.04;
+        //Bounce the sphere, speed set by UI
+        step+=controls.bouncingSpeed;
         sphere.position.x = 20+( 10*(Math.cos(step)));
         sphere.position.y = 2 +( 10*Math.abs(Math.sin(step)));
 
@@ -109,7 +119,6 @@ function init() {
     }
 
     function initStats() {
-
         var stats = new Stats();
         stats.setMode(0);
         stats.domElement.style.position = 'absolute';
@@ -118,7 +127,6 @@ function init() {
         $("#Stats-output").append( stats.domElement );
         return stats;
     }
-
 }
 
 window.addEventListener("load", ()=>{

@@ -1,7 +1,7 @@
 /*
  * Ethan Hammond
  * 10/4/2016
- * First Three.js project, create scene with cube and sphere, basic animations and UI
+ * Second Three.js project, dynamically add elements to screen with UI
  * TODO:
  */
 
@@ -10,25 +10,21 @@ function init() {
 
      var stats = initStats();
 
-    //Set change in animation speed per tick of UI element
-     var controls = new function() {
-         this.rotationSpeed = 0.02;
-         this.bouncingSpeed = 0.03;
-     }
-     //Create UI elements for each animation variable
-     var gui = new dat.GUI();
-     gui.add(controls, 'rotationSpeed',0,0.5);
-     gui.add(controls, 'bouncingSpeed',0,0.5);
-
     //Create a new scene
 	 var scene = new THREE.Scene();
 
     //Set camera position
 	 var camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 1000);
 
+    //Set camera position and orientation
+    camera.position.x = -30;
+    camera.position.y = 40;
+    camera.position.z = 30;
+    camera.lookAt(scene.position);
+
     //Create renderer and set size
 	 var renderer = new THREE.WebGLRenderer();
-	 renderer.setClearColorHex(0xffffff);
+	 renderer.setClearColor(0xffffff);
 	 renderer.setSize(window.innerWidth, window.innerHeight);
 	 renderer.shadowMapEnabled = true;
 
@@ -37,51 +33,21 @@ function init() {
 	 scene.add(axes);
 
     //Set ground plane size and color
-	 var planeGeometry = new THREE.PlaneGeometry(60,20,1,1);
+	 var planeGeometry = new THREE.PlaneGeometry(60,60,1,1);
 	 var planeMaterial = new THREE.MeshLambertMaterial({color: 0xffffff});
 
     //Position the plane and add it to the scene
     var plane = new THREE.Mesh(planeGeometry,planeMaterial);
     plane.rotation.x=-0.5*Math.PI;
-    plane.position.x = 15;
+    plane.position.x = 0;
     plane.position.y = 0;
     plane.position.z = 0;
     plane.receiveShadow = true;
     scene.add(plane);
 
-    //Create cube
-	 var cubeGeometry = new THREE.CubeGeometry(4,4,4);
-	 var cubeMaterial = new THREE.MeshLambertMaterial({color: 0x777fff});
-	 var cube = new THREE.Mesh(cubeGeometry, cubeMaterial);
-
-    //Position the cube
-	 cube.position.x = -3;
-	 cube.position.y = 3;
-	 cube.position.z = 0;
-
-    //Set cube to cast shadow and add to scene
-	 cube.castShadow = true;
-	 scene.add(cube);
-
-    //Create sphere
-	 var sphereGeometry = new THREE.SphereGeometry(4,20,20);
-	 var sphereMaterial = new THREE.MeshLambertMaterial({color: 0x7777ff});
-	 var sphere = new THREE.Mesh(sphereGeometry,sphereMaterial);
-
-    //Position the sphere
-	 sphere.position.x = 20;
-	 sphere.position.y = 4;
-	 sphere.position.z = 2;
-
-    //Set sphere to cast shadow and add to scene
-	 sphere.castShadow = true;
-	 scene.add(sphere);
-
-    //Set camera position and orientation
-	 camera.position.x = -30;
-	 camera.position.y = 40;
-	 camera.position.z = 30;
-	 camera.lookAt(scene.position);
+    //Create ambientLight in general area
+     var ambientLight = new THREE.AmbientLight( 0x0c0c0c0c);
+     scene.add(ambientLight);
 
     //Create spotlight aimed at objects and add to scene
 	 var spotLight = new THREE.SpotLight( 0xffffff);
@@ -92,29 +58,76 @@ function init() {
 	 spotLight.castShadow = true;
 
     //Place output of renderer in HTML
-	 $("#WebGL-output").append(renderer.domElement);
+    $("#WebGL-output").append(renderer.domElement);
+
+    //Set change in animation speed per tick of UI element
+    var controls = new function() {
+        this.rotationSpeed = 0.02;
+        this.numberOfObjects = scene.children.length;
+
+        this.removeCube = function () {
+            var allChildren = scene.children;
+            var lastObject = allChildren[allChildren.length - 1];
+            if (lastObject instanceof THREE.Mesh) {
+                scene.remove(lastObject);
+                this.numberOfObjects = scene.children.length;
+            }
+        };
+
+        this.addCube = function () {
+
+            var cubeSize = Math.ceil((Math.random() * 3));
+            var cubeGeometry = new THREE.BoxGeometry(cubeSize, cubeSize, cubeSize);
+            var cubeMaterial = new THREE.MeshLambertMaterial({color: Math.random() * 0xffffff});
+            var cube = new THREE.Mesh(cubeGeometry, cubeMaterial);
+            cube.castShadow = true;
+            cube.name = "cube-" + scene.children.length;
+
+
+            // position the cube randomly in the scene
+
+            cube.position.x = -30 + Math.round((Math.random() * planeGeometry.parameters.width));
+            cube.position.y = Math.round((Math.random() * 5));
+            cube.position.z = -20 + Math.round((Math.random() * planeGeometry.parameters.height));
+
+            // add the cube to the scene
+            scene.add(cube);
+            this.numberOfObjects = scene.children.length;
+        };
+
+        this.outputObjects = function () {
+            console.log(scene.children);
+        }
+    };
+
+    //Create UI elements for each animation variable
+     var gui = new dat.GUI();
+     gui.add(controls, 'rotationSpeed', 0, 0.5);
+     gui.add(controls, 'addCube');
+     gui.add(controls, 'removeCube');
+     gui.add(controls, 'outputObjects');
+     gui.add(controls, 'numberOfObjects').listen();
 
     //Prep for animations
-     var step = 0;
-	 renderScene();
+    renderScene();
 
     function renderScene() {
-        //Update FPS or render-time counter
         stats.update();
 
-        //Rotate the cube, speed set by UI
-        cube.rotation.x += controls.rotationSpeed;
-        cube.rotation.y += controls.rotationSpeed;
-        cube.rotation.z += controls.rotationSpeed;
+        // rotate the cubes around its axes
+        scene.traverse(function (e) {
+            if (e instanceof THREE.Mesh && e != plane) {
 
-        //Bounce the sphere, speed set by UI
-        step+=controls.bouncingSpeed;
-        sphere.position.x = 20+( 10*(Math.cos(step)));
-        sphere.position.y = 2 +( 10*Math.abs(Math.sin(step)));
+                e.rotation.x += controls.rotationSpeed;
+                e.rotation.y += controls.rotationSpeed;
+                e.rotation.z += controls.rotationSpeed;
+            }
+        });
 
-        //Render the animation
+        // render using requestAnimationFrame
         requestAnimationFrame(renderScene);
         renderer.render(scene, camera);
+
     }
 
     function initStats() {

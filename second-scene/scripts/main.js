@@ -40,7 +40,7 @@ function init() {
     var plane = new THREE.Mesh(planeGeometry,planeMaterial);
     plane.rotation.x=-0.5*Math.PI;
     plane.position.x = 0;
-    plane.position.y = 0;
+    plane.position.y = 100;
     plane.position.z = 0;
     plane.receiveShadow = true;
     scene.add(plane);
@@ -56,6 +56,9 @@ function init() {
 
     //Allow shadows to be rendered by the spotlight
 	 spotLight.castShadow = true;
+
+    //Create fog
+     scene.fog = new THREE.Fog (0xffffff, .015, 100);
 
     //Place output of renderer in HTML
     $("#WebGL-output").append(renderer.domElement);

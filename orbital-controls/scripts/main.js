@@ -34,12 +34,16 @@ function init() {
     this.rotationSpeed = 0.02;
     this.bouncingSpeed = 0.03;
     this.growthRate = 0.01;
+    this.minGrow = 1;
+    this.maxGrow = 5;
   };
   //Create UI elements for each animation variable
   var gui = new dat.GUI();
   gui.add(controls, 'rotationSpeed',0,0.5);
   gui.add(controls, 'bouncingSpeed',0,0.5);
   gui.add(controls, 'growthRate', 0.001, 0.5);
+  gui.add(controls, 'minGrow', 0, 10);
+  gui.add(controls, 'maxGrow', 0, 10);
 
   //Set ground plane size and color
   var planeGeometry = new THREE.PlaneGeometry(60,20,1,1);
@@ -121,8 +125,8 @@ function init() {
     cube.rotation.z += controls.rotationSpeed;
 
     //Change the Size of the cube
-    growDirection = cubeSize >= maxCubeSize ? -1 : growDirection;
-    growDirection = cubeSize <= minCubeSize ? 1 : growDirection;
+    growDirection = cubeSize >= controls.maxGrow ? -1 : growDirection;
+    growDirection = cubeSize <= controls.minGrow ? 1 : growDirection;
     cubeSize += growDirection * controls.growthRate;
     cube.scale.x = cubeSize;
     cube.scale.y = cubeSize;

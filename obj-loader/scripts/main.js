@@ -6,6 +6,17 @@
  */
 
 "use strict";
+
+var showViewer = false;
+
+function awaitUserInput() {
+	$(".viewer").hide();
+	$(".viewerButton").click(function() {
+		$(".viewer").show();
+		init();
+	});
+}
+
 function init() {
 
   var stats = initStats();
@@ -24,7 +35,7 @@ function init() {
 
   var orbitControls = new THREE.OrbitControls(camera);
   //orbitControls.addEventListener( 'change', renderScene );
-;
+
 
   //Set ground plane size and color
   var planeGeometry = new THREE.PlaneGeometry(0,0,0,0);
@@ -92,7 +103,7 @@ function init() {
   }
 }
 
-window.onload = function() {
-  init();
-};
+$(document).ready(function() {
+	awaitUserInput();
+})
 

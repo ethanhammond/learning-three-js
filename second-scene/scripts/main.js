@@ -2,24 +2,23 @@
  * Ethan Hammond
  * 10/4/2016
  * First Three.js project, create scene with cube and sphere, basic animations and UI
- * TODO: Create STL Loader
+ * TODO:
  */
 
 "use strict";
-
-var showViewer = false;
-
-function awaitUserInput() {
-	$(".viewer").hide();
-	$(".viewerButton").click(function() {
-		$(".viewer").show();
-		init();
-	});
-}
-
 function init() {
 
   var stats = initStats();
+
+  //Set change in animation speed per tick of UI element
+  var controls = new function() {
+    this.rotationSpeed = 0.02;
+    this.bouncingSpeed = 0.03;
+  }
+  //Create UI elements for each animation variable
+  var gui = new dat.GUI();
+  gui.add(controls, 'Rotation Speed',0,0.5);
+  gui.add(controls, 'Bouncing Speed',0,0.5);
 
   //Create a new scene
   var scene = new THREE.Scene();
@@ -33,22 +32,50 @@ function init() {
   renderer.setSize(window.innerWidth, window.innerHeight);
   renderer.shadowMapEnabled = true;
 
-  var orbitControls = new THREE.OrbitControls(camera);
-  //orbitControls.addEventListener( 'change', renderScene );
-
+  //Add coordinate axis
+  var axes = new THREE.AxisHelper( 20 );
+  scene.add(axes);
 
   //Set ground plane size and color
-  var planeGeometry = new THREE.PlaneGeometry(0,0,0,0);
+  var planeGeometry = new THREE.PlaneGeometry(60,60);
   var planeMaterial = new THREE.MeshLambertMaterial({color: 0xffffff});
 
   //Position the plane and add it to the scene
   var plane = new THREE.Mesh(planeGeometry,planeMaterial);
   plane.rotation.x=-0.5*Math.PI;
-  plane.position.x = 0;
+  plane.position.x = 15;
   plane.position.y = 0;
   plane.position.z = 0;
   plane.receiveShadow = true;
   scene.add(plane);
+
+  //Create cube
+  var cubeGeometry = new THREE.CubeGeometry(4,4,4);
+  var cubeMaterial = new THREE.MeshLambertMaterial({color: 0x777fff});
+  var cube = new THREE.Mesh(cubeGeometry, cubeMaterial);
+
+  //Position the cube
+  cube.position.x = -3;
+  cube.position.y = 3;
+  cube.position.z = 0;
+
+  //Set cube to cast shadow and add to scene
+  cube.castShadow = true;
+  scene.add(cube);
+
+  //Create sphere
+  var sphereGeometry = new THREE.SphereGeometry(4,20,20);
+  var sphereMaterial = new THREE.MeshLambertMaterial({color: 0x7777ff});
+  var sphere = new THREE.Mesh(sphereGeometry,sphereMaterial);
+
+  //Position the sphere
+  sphere.position.x = 20;
+  sphere.position.y = 4;
+  sphere.position.z = 2;
+
+  //Set sphere to cast shadow and add to scene
+  sphere.castShadow = true;
+  scene.add(sphere);
 
   //Set camera position and orientation
   camera.position.x = -30;
@@ -64,31 +91,29 @@ function init() {
   //Allow shadows to be rendered by the spotlight
   spotLight.castShadow = true;
 
-  //Load STL file from fixed location
-  var loader = new THREE.STLLoader();
-      loader.addEventListener('load', function (event){
-          var geometry = event.content;
-          var material = new THREE.MeshLambertMaterial({ ambient: 0xFBB917,color: 0xfdd017 });
-          var mesh = new THREE.Mesh(geometry, material);
-          scene.add(mesh);});
-
-      // STL file to be loaded
-      loader.load('assets/body1.stl');
-
   //Place output of renderer in HTML
   $("#WebGL-output").append(renderer.domElement);
 
   //Prep for animations
+  var step = 0;
   renderScene();
 
   function renderScene() {
     //Update FPS or render-time counter
     stats.update();
 
-    requestAnimationFrame(renderScene);
+    //Rotate the cube, speed set by UI
+    cube.rotation.x += controls.rotationSpeed;
+    cube.rotation.y += controls.rotationSpeed;
+    cube.rotation.z += controls.rotationSpeed;
 
-    //orbitControls.update();
+    //Bounce the sphere, speed set by UI
+    step+=controls.bouncingSpeed;
+    sphere.position.x = 20+( 10*(Math.cos(step)));
+    sphere.position.y = 2 +( 10*Math.abs(Math.sin(step)));
+
     //Render the animation
+    requestAnimationFrame(renderScene);
     renderer.render(scene, camera);
   }
 
@@ -103,7 +128,8 @@ function init() {
   }
 }
 
-$(document).ready(function() {
-	awaitUserInput();
-})
+window.onload = function() {
+  init();
+}
+
 

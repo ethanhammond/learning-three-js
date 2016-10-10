@@ -9,7 +9,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>First Three.js Scene</title>
+        <title>STL Viewer</title>
 
         <!-- Vendor CSS -->
         <link href="./css/carousel.css" rel="stylesheet">
@@ -21,11 +21,23 @@
     </head>
 
     <body>
-        <div id="WebGL-output">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="col-lg-4">
+                        <button type="button" class="btn btn-default viewerButton">Show Viewer</button>
+                    </div>
 
+                </div>
+            </div>
         </div>
-        <div id="Stats-output">
+        <div id="viewerParent" class="viewer">
+            <div id="WebGL-output">
 
+            </div>
+            <div id="Stats-output">
+
+            </div>
         </div>
     </body>
 

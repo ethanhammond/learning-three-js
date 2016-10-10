@@ -2,1091 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54d4ae6b-c910-49b1-81a5-2e918dd63ea3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Ethan.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/first-scene.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Heatsink.stl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/gfxcard.stl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/OrbitControls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/PLYLoader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/STLLoader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/TrackballControls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/jquery-3.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dat.gui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.9.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/round.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/stats.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/three.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/mathjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/complex.js/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/complex.js/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/complex.js/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/complex.js/complex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/complex.js/complex.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/complex.js/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/complex.js/tests/complex.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decimal.js/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decimal.js/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decimal.js/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decimal.js/LICENCE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decimal.js/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decimal.js/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decimal.js/decimal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decimal.js/decimal.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decimal.js/doc/API.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decimal.js/doc/decimal.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decimal.js/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fraction.js/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fraction.js/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fraction.js/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fraction.js/examples/approx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fraction.js/examples/hesse-convergence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fraction.js/examples/integrate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fraction.js/fraction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fraction.js/fraction.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fraction.js/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fraction.js/tests/fraction.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/ROADMAP.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/bin/cli.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/bin/repl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/dist/math.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/dist/math.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/dist/math.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/chaining.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/command_line_interface.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/configuration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/core.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/core/chaining.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/core/configuration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/core/extension.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/core/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/core/serialization.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/custom_bundling.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/datatypes/bignumbers.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/datatypes/complex_numbers.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/datatypes/fractions.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/datatypes/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/datatypes/matrices.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/datatypes/numbers.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/datatypes/units.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/expressions.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/expressions/customization.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/expressions/expression_trees.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/expressions/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/expressions/parsing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/expressions/syntax.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/extension.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/getting_started.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/classes.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/classes/densematrix.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/classes/fibonacciheap.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/classes/matrixindex.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/classes/matrixrange.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/classes/resultset.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/classes/sparsematrix.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/classes/unit.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/constants.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/abs.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/acos.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/acosh.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/acot.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/acoth.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/acsc.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/acsch.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/add.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/and.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/arg.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/asec.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/asech.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/asin.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/asinh.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/atan.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/atan2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/atanh.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/bellNumbers.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/bignumber.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/bitAnd.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/bitNot.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/bitOr.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/bitXor.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/boolean.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/catalan.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/cbrt.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/ceil.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/chain.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/clone.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/combinations.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/compare.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/compile.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/complex.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/composition.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/concat.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/config.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/conj.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/cos.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/cosh.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/cot.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/coth.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/createUnit.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/cross.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/csc.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/csch.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/cube.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/deepEqual.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/det.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/diag.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/distance.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/divide.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/dot.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/dotDivide.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/dotMultiply.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/dotPow.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/equal.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/eval.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/exp.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/eye.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/factorial.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/filter.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/fix.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/flatten.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/floor.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/forEach.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/format.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/fraction.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/gamma.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/gcd.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/help.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/hypot.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/im.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/import.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/intersect.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/inv.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/isInteger.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/isNaN.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/isNegative.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/isNumeric.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/isPositive.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/isPrime.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/isZero.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/kldivergence.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/larger.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/largerEq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/lcm.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/leftShift.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/log.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/log10.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/lsolve.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/lup.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/lusolve.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/map.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/matrix.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/max.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/mean.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/median.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/min.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/mod.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/mode.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/multinomial.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/multiply.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/norm.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/not.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/nthRoot.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/number.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/ones.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/or.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/parse.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/parser.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/partitionSelect.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/permutations.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/pickRandom.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/pow.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/print.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/prod.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/quantileSeq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/random.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/randomInt.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/range.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/re.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/resize.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/rightArithShift.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/rightLogShift.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/round.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/sec.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/sech.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/sign.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/sin.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/sinh.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/size.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/slu.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/smaller.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/smallerEq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/sort.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/sparse.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/splitUnit.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/sqrt.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/square.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/squeeze.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/std.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/stirlingS2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/string.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/subset.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/subtract.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/sum.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/tan.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/tanh.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/to.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/trace.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/transpose.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/typed.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/typeof.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/unaryMinus.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/unaryPlus.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/unequal.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/unit.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/usolve.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/var.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/xgcd.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/xor.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/functions/zeros.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/reference/units.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/docs/serialization.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/advanced/add_new_datatypes/MyType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/advanced/add_new_datatypes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/advanced/add_new_datatypes/myAdd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/advanced/convert_fraction_to_bignumber.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/advanced/custom_argument_parsing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/advanced/custom_loading.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/advanced/expression_trees.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/advanced/function_transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/advanced/web_server/math_worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/advanced/web_server/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/basic_usage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/bignumbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/browser/angle_configuration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/browser/basic_usage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/browser/custom_separators.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/browser/old_browsers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/browser/plot.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/browser/pretty_printing_with_mathjax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/browser/requirejs_loading.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/browser/webworkers/webworkers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/browser/webworkers/worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/chaining.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/complex_numbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/expressions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/fractions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/import.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/matrices.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/objects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/serialization.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/sparse_matrices.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/examples/units.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/core/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/core/function/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/core/function/import.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/core/function/typed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/core/typed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/error/ArgumentsError.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/error/DimensionError.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/error/IndexError.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/error/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/Help.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/Parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/Infinity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/LN10.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/LN2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/LOG10E.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/LOG2E.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/NaN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/SQRT1_2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/SQRT2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/false.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/i.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/null.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/phi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/pi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/tau.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/true.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/constants/version.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/construction/bignumber.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/construction/boolean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/construction/complex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/construction/fraction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/construction/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/construction/matrix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/construction/number.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/construction/sparse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/construction/string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/construction/unit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/core/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/core/import.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/core/typed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/algebra/lsolve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/algebra/lup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/algebra/lusolve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/algebra/slu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/algebra/usolve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/abs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/add.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/cbrt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/ceil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/cube.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/divide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/dotDivide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/dotMultiply.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/dotPow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/exp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/fix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/floor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/gcd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/hypot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/lcm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/log10.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/mod.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/multiply.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/norm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/nthRoot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/pow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/round.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/sign.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/sqrt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/square.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/subtract.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/unaryMinus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/unaryPlus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/arithmetic/xgcd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/bitwise/bitAnd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/bitwise/bitNot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/bitwise/bitOr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/bitwise/bitXor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/bitwise/leftShift.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/bitwise/rightArithShift.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/bitwise/rightLogShift.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/combinatorics/bellNumbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/combinatorics/catalan.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/combinatorics/composition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/combinatorics/stirlingS2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/complex/arg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/complex/conj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/complex/im.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/complex/re.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/expression/eval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/expression/help.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/geometry/distance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/geometry/intersect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/logical/and.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/logical/not.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/logical/or.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/logical/xor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/cross.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/det.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/diag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/dot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/eye.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/flatten.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/forEach.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/inv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/ones.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/partitionSelect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/range.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/size.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/sort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/squeeze.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/subset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/trace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/transpose.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/matrix/zeros.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/probability/combinations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/probability/distribution.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/probability/factorial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/probability/gamma.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/probability/kldivergence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/probability/multinomial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/probability/permutations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/probability/pickRandom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/probability/random.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/probability/randomInt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/relational/compare.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/relational/deepEqual.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/relational/equal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/relational/larger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/relational/largerEq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/relational/smaller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/relational/smallerEq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/relational/unequal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/statistics/max.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/statistics/mean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/statistics/median.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/statistics/min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/statistics/mode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/statistics/prod.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/statistics/quantileSeq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/statistics/std.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/statistics/sum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/statistics/var.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/acos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/acosh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/acot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/acoth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/acsc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/acsch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/asec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/asech.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/asin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/asinh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/atan.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/atan2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/atanh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/cos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/cosh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/cot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/coth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/csc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/csch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/sec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/sech.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/sin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/sinh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/tan.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/trigonometry/tanh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/units/to.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/utils/clone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/utils/format.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/utils/isInteger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/utils/isNaN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/utils/isNegative.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/utils/isNumeric.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/utils/isPositive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/utils/isPrime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/utils/isZero.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/utils/print.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/function/utils/typeof.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/docs/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/function/compile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/function/eval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/function/help.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/function/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/function/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/function/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/keywords.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/AccessorNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/ArrayNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/AssignmentNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/BlockNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/ConditionalNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/ConstantNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/FunctionAssignmentNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/FunctionNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/IndexNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/Node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/ObjectNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/OperatorNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/ParenthesisNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/RangeNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/SymbolNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/UpdateNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/utils/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/node/utils/assign.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/operators.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/transform/concat.transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/transform/error.transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/transform/filter.transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/transform/forEach.transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/transform/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/transform/index.transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/transform/map.transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/transform/max.transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/transform/mean.transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/transform/min.transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/transform/range.transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/expression/transform/subset.transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/decomposition/lup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/decomposition/slu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/solver/lsolve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/solver/lusolve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/solver/usolve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/solver/utils/solveValidation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_chol.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_counts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_cumsum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_dfs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_ereach.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_etree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_fkeep.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_flip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_ipvec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_leaf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_lu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_mark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_marked.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_permute.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_reach.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_spsolve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_sqr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_symperm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_tdfs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/algebra/sparse/cs_unflip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/abs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/add.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/addScalar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/cbrt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/ceil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/cube.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/divide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/divideScalar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/dotDivide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/dotMultiply.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/dotPow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/exp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/fix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/floor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/gcd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/hypot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/lcm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/log10.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/mod.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/multiply.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/multiplyScalar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/norm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/nthRoot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/pow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/round.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/sign.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/sqrt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/square.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/subtract.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/unaryMinus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/unaryPlus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/arithmetic/xgcd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/bitwise/bitAnd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/bitwise/bitNot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/bitwise/bitOr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/bitwise/bitXor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/bitwise/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/bitwise/leftShift.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/bitwise/rightArithShift.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/bitwise/rightLogShift.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/combinatorics/bellNumbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/combinatorics/catalan.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/combinatorics/composition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/combinatorics/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/combinatorics/stirlingS2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/complex/arg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/complex/conj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/complex/im.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/complex/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/complex/re.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/geometry/distance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/geometry/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/geometry/intersect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/logical/and.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/logical/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/logical/not.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/logical/or.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/logical/xor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/cross.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/det.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/diag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/dot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/eye.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/flatten.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/forEach.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/inv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/ones.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/partitionSelect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/range.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/size.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/sort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/squeeze.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/subset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/trace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/transpose.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/matrix/zeros.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/probability/combinations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/probability/distribution.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/probability/factorial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/probability/gamma.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/probability/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/probability/kldivergence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/probability/multinomial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/probability/permutations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/probability/pickRandom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/probability/random.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/probability/randomInt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/relational/compare.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/relational/deepEqual.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/relational/equal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/relational/equalScalar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/relational/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/relational/larger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/relational/largerEq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/relational/smaller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/relational/smallerEq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/relational/unequal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/statistics/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/statistics/max.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/statistics/mean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/statistics/median.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/statistics/min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/statistics/mode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/statistics/prod.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/statistics/quantileSeq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/statistics/std.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/statistics/sum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/statistics/var.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/string/format.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/string/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/string/print.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/acos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/acosh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/acot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/acoth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/acsc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/acsch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/asec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/asech.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/asin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/asinh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/atan.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/atan2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/atanh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/cos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/cosh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/cot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/coth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/csc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/csch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/sec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/sech.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/sin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/sinh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/tan.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/trigonometry/tanh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/unit/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/unit/to.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/utils/clone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/utils/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/utils/isInteger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/utils/isNaN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/utils/isNegative.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/utils/isNumeric.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/utils/isPositive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/utils/isPrime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/utils/isZero.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/function/utils/typeof.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/json/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/json/reviver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/bignumber/BigNumber.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/bignumber/function/bignumber.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/bignumber/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/boolean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/chain/Chain.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/chain/function/chain.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/chain/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/complex/Complex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/complex/function/complex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/complex/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/fraction/Fraction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/fraction/function/fraction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/fraction/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/DenseMatrix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/FibonacciHeap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/ImmutableDenseMatrix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/Matrix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/MatrixIndex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/Range.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/Spa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/SparseMatrix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/function/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/function/matrix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/function/sparse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm05.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm06.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm07.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm08.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm09.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm10.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm11.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm12.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm13.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/matrix/utils/algorithm14.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/number.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/resultset/ResultSet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/resultset/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/unit/Unit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/unit/function/createUnit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/unit/function/splitUnit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/unit/function/unit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/unit/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/type/unit/physicalConstants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/NumberFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/bignumber/bitAnd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/bignumber/bitNot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/bignumber/bitOr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/bignumber/bitXor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/bignumber/bitwise.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/bignumber/constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/bignumber/formatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/bignumber/leftShift.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/bignumber/nearlyEqual.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/bignumber/rightArithShift.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/boolean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/collection/containsCollections.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/collection/deepForEach.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/collection/deepMap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/collection/isCollection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/collection/reduce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/collection/scatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/emitter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/latex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/number.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/utils/types.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/lib/version.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/approx.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/constants.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/core/config.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/core/import.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/core/index.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/deprecated.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/error/ArgumentsError.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/error/DimensionError.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/error/IndexError.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/error/index.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/Help.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/Parser.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/function/compile.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/function/eval.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/function/help.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/function/parse.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/function/parser.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/keywords.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/AccessorNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/ArrayNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/AssignmentNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/BlockNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/ConditionalNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/ConstantNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/FunctionAssignmentNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/FunctionNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/IndexNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/Node.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/ObjectNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/OperatorNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/ParenthesisNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/RangeNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/SymbolNode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/node/index.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/operators.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/expression/parse.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/algebra/decomposition/lup.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/algebra/decomposition/slu.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/algebra/solver/lsolve.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/algebra/solver/lusolve.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/algebra/solver/usolve.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/algebra/sparse/cs_amd.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/algebra/sparse/cs_lu.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/abs.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/add.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/addScalar.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/cbrt.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/ceil.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/cube.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/divide.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/dotDivide.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/dotMultiply.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/dotPow.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/exp.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/fix.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/floor.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/gcd.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/hypot.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/lcm.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/log.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/log10.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/mod.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/multiply.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/norm.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/nthRoot.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/pow.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/round.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/sign.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/sqrt.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/square.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/subtract.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/unaryMinus.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/unaryPlus.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/arithmetic/xgcd.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/bitwise/bitAnd.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/bitwise/bitNot.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/bitwise/bitOr.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/bitwise/bitXor.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/bitwise/leftShift.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/bitwise/rightArithShift.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/bitwise/rightLogShift.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/combinatorics/bellNumbers.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/combinatorics/catalan.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/combinatorics/composition.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/combinatorics/stirlingS2.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/complex/arg.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/complex/conj.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/complex/im.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/complex/re.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/geometry/distance.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/geometry/intersect.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/logical/and.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/logical/not.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/logical/or.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/logical/xor.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/concat.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/cross.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/det.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/diag.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/dot.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/eye.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/filter.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/flatten.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/forEach.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/inv.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/map.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/ones.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/partitionSelect.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/range.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/resize.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/size.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/sort.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/squeeze.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/subset.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/trace.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/transpose.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/matrix/zeros.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/probability/combinations.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/probability/distribution.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/probability/factorial.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/probability/gamma.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/probability/kldivergence.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/probability/multinomial.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/probability/permutations.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/probability/pickRandom.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/probability/random.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/probability/randomInt.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/relational/compare.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/relational/deepEqual.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/relational/equal.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/relational/larger.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/relational/largerEq.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/relational/smaller.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/relational/smallerEq.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/relational/unequal.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/statistics/max.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/statistics/mean.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/statistics/median.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/statistics/min.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/statistics/mode.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/statistics/prod.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/statistics/quantileSeq.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/statistics/std.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/statistics/sum.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/statistics/var.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/string/format.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/string/print.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/acos.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/acosh.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/acot.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/acoth.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/acsc.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/acsch.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/asec.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/asech.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/asin.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/asinh.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/atan.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/atan2.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/atanh.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/cos.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/cosh.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/cot.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/coth.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/csc.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/csch.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/sec.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/sech.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/sin.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/sinh.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/tan.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/trigonometry/tanh.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/unit/to.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/utils/clone.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/utils/isInteger.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/utils/isNaN.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/utils/isNegative.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/utils/isNumeric.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/utils/isPositive.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/utils/isPrime.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/utils/isZero.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/function/utils/typeof.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/index.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/json/replacer.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/json/reviver.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/pi_bailey-borwein-plouffe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/pi_machin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/test.min.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/test_bignumber.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/bignumber/BigNumber.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/bignumber/function/bignumber.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/boolean.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/chain/Chain.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/chain/function/chain.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/complex/Complex.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/complex/function/complex.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/fraction/Fraction.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/fraction/function/fraction.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/DenseMatrix.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/FibonacciHeap.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/ImmutableDenseMatrix.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/Index.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/Matrix.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/Range.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/Spa.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/SparseMatrix.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/collection.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/function/index.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/function/matrix.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/function/sparse.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/utils/deepForEach.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/utils/deepMap.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/utils/isCollection.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/matrix/utils/reduce.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/number.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/resultset/ResultSet.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/string.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/unit/Unit.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/unit/function/createUnit.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/unit/function/splitUnit.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/unit/function/unit.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/type/unit/physicalConstants.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/utils/NumberFormatter.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/utils/array.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/utils/bignumber/constants.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/utils/bignumber/formatter.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/utils/bignumber/nearlyEqual.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/utils/boolean.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/utils/function.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/utils/latex.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/utils/number.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/utils/object.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/utils/string.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mathjs/test/utils/types.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tiny-emitter/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tiny-emitter/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tiny-emitter/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tiny-emitter/dist/tinyemitter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tiny-emitter/dist/tinyemitter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tiny-emitter/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tiny-emitter/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tiny-emitter/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/benchmark/benchmark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/examples/any_type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/examples/basic_usage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/examples/browser.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/examples/browser_amd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/examples/custom_type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/examples/merge_typed_functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/examples/multiple_signatures.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/examples/type_conversion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/examples/variable_arguments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/test/any_type.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/test/browser.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/test/compose.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/test/construction.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/test/conversion.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/test/convert.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/test/errors.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/test/find.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/test/merge.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/test/strictEqualArray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/test/union_types.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/test/variable_arguments.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/typed-function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typed-function/typed-function.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../obj-loader/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../obj-loader/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../second-scene/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../second-scene/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/main.js" afterPath="$PROJECT_DIR$/scripts/main.js" />
     </list>
     <ignored path="first-scene.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1107,21 +25,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="34" column="91" selection-start-line="34" selection-start-column="91" selection-end-line="34" selection-end-column="91" />
+            <state relative-caret-position="626">
+              <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3234">
+              <caret line="147" column="30" selection-start-line="147" selection-start-column="30" selection-end-line="147" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="748">
+              <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -1132,18 +60,8 @@
       <file leaf-file-name="STLLoader.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/STLLoader.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
+            <state relative-caret-position="8558">
               <caret line="389" column="0" selection-start-line="389" selection-start-column="0" selection-end-line="389" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="670">
-              <caret line="156" column="11" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -1170,10 +88,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/PLYLoader.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/STLLoader.js" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/scripts/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -1217,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -1281,6 +198,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -1755,11 +673,17 @@
       <workItem from="1476043951655" duration="1635000" />
       <workItem from="1476050994915" duration="32000" />
       <workItem from="1476051110100" duration="7980000" />
+      <workItem from="1476105618241" duration="3409000" />
+      <workItem from="1476110645671" duration="1900000" />
+      <workItem from="1476112798751" duration="125000" />
+      <workItem from="1476113180797" duration="609000" />
+      <workItem from="1476114222519" duration="207000" />
+      <workItem from="1476127767048" duration="148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17634000" />
+    <option name="totallyTimeSpent" value="24032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -1771,24 +695,24 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.178125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1817,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1843,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1869,7 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1895,7 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1921,7 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1947,7 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1973,7 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1999,7 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2025,7 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2051,7 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2084,7 +998,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2117,7 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2150,7 +1062,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2197,37 +1108,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="670">
-          <caret line="156" column="11" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/STLLoader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
+        <state relative-caret-position="8558">
           <caret line="389" column="0" selection-start-line="389" selection-start-column="0" selection-end-line="389" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="34" column="91" selection-start-line="34" selection-start-column="91" selection-end-line="34" selection-end-column="91" />
+        <state relative-caret-position="3234">
+          <caret line="147" column="30" selection-start-line="147" selection-start-column="30" selection-end-line="147" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="748">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>

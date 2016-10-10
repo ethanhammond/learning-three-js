@@ -7,33 +7,37 @@
 
 "use strict";
 
-var object;
+var object, objectHasValue;
 
 function loadInterface() {
     $(".viewer").hide();
     $(".homeScreen").show();
 }
 
-$("#showViewer").click( function() {
-    $(".viewer").show();
-    $(".footer").show();
-    $(".homeScreen").hide();
-    animate();
-});
+function awaitButtonClicks() {
+    $(".heatsink").click( function() {
+        object = "Heatsink";
+        objectHasValue = true;
+        $(".viewer").show();
+        $(".footer").show();
+        $(".homeScreen").hide();
+        animate();
+        init();
+    });
 
-$("#hideViewer").click( function() {
-    $(".viewer").hide();
-    $(".homeScreen").show();
-});
+    $(".gfxcard").click( function() {
+        object = "gfxcard";
+        objectHasValue = true;
+        $(".viewer").show();
+        $(".footer").show();
+        $(".homeScreen").hide();
+        animate();
+        init();
+    });
 
-function setHeatsink() {
-    object = "Heatsink";
-    init();
-}
-
-function setGfxCard() {
-    object = "gfxcard";
-    init();
+    $(".menu-toggle").click(function(e) {e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
 }
 
 function init() {
@@ -68,9 +72,9 @@ function init() {
     scene.add(plane);
 
     //Set camera position and orientation
-    camera.position.x = 100;
-    camera.position.y = 100;
-    camera.position.z = 100;
+    camera.position.x = 50;
+    camera.position.y = 50;
+    camera.position.z = 50;
     camera.lookAt(scene.position);
 
     //Create spotlight aimed at objects and add to scene
@@ -89,7 +93,6 @@ function init() {
         var material = new THREE.MeshLambertMaterial({ ambient: 0xFBB917,color: 0xD3D3D3 });
         var mesh = new THREE.Mesh(geometry, material);
         mesh.rotation.x = Math.PI;
-        mesh.rotation.z = Math.PI / 2;
         scene.add(mesh);
     });
 
@@ -129,5 +132,6 @@ function animate() {
 
 window.onload = function() {
     loadInterface();
+    awaitButtonClicks();
 };
 

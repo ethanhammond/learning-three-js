@@ -1,8 +1,8 @@
 /*
  * Ethan Hammond
- * Date
- * Description
- * TODO:
+ * 10/4/2016
+ * Load CAD Files with file selection.
+ * TODO: Add Loading gif
  */
 
  body {
@@ -10,7 +10,7 @@
     overflow: hidden;
  }
 
-/* Toggle Styles */
+/* Sidebar CSS*/
 
 #wrapper {
     padding-left: 0;
@@ -129,8 +129,9 @@
         margin-right: 0;
     }
 }
-/* Sticky footer styles
--------------------------------------------------- */
+
+/* Sticky Footer CSS*/
+
 html {
     position: relative;
     min-height: 100%;
@@ -149,9 +150,7 @@ body {
 }
 
 
-/* Custom page CSS
--------------------------------------------------- */
-/* Not required for template or sticky footer method. */
+/* Custom Footer CSS*/
 
 .container {
     width: auto;
@@ -161,3 +160,5 @@ body {
 .container .text-muted {
     margin: 20px 0;
 }
+
+/* Loading gif*/

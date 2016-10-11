@@ -1,8 +1,8 @@
 <!--
 * Ethan Hammond
-* Date
-* Description
-* TODO:
+* 10/11/2016
+* Load CAD Files with file selection.
+* TODO: Add Loading gif
 -->
 
 <!DOCTYPE html>
@@ -23,6 +23,7 @@
     <body>
     <div id="wrapper">
 
+        <div class="loader"></div>
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
@@ -31,7 +32,6 @@
                 <li><a href="#menu-toggle" class="gfxcard loadItem menu-toggle">Graphics Card</a></li>
             </ul>
         </div>
-        <!-- /#sidebar-wrapper -->
 
         <!-- Page Content -->
         <div id="page-content-wrapper">
@@ -54,14 +54,12 @@
                 </div>
             </div>
         </div>
-        <!-- /#page-content-wrapper -->
         <footer class="footer">
             <div class="container">
                 <p class="text-muted">Made by <a href="//github.com/ethanhammond">Ethan Hammond</a></p>
             </div>
         </footer>
     </div>
-    <!-- /#wrapper -->
     </body>
 
     <!-- Vendor Scripts -->
@@ -78,10 +76,6 @@
 
     <!-- Custom Scripts -->
     <script src="./scripts/main.js" type="text/javascript"></script>
+    <script src="./scripts/navbar.js" type="text/javascript"></script>
 
-    <script>
-        $("#menu-toggle").click(function(e) {e.preventDefault();
-            $("#wrapper").toggleClass("toggled");
-        });
-    </script>
 </html>

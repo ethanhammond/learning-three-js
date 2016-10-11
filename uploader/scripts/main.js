@@ -1,8 +1,8 @@
 /*
  * Ethan Hammond
  * 10/4/2016
- * First Three.js project, create scene with cube and sphere, basic animations and UI
- * TODO: Create PLY Loader
+ * Load CAD Files with file selection.
+ * TODO: Add Loading gif
  */
 
 "use strict";
@@ -33,10 +33,6 @@ function awaitButtonClicks() {
         $(".homeScreen").hide();
         animate();
         init();
-    });
-
-    $(".menu-toggle").click(function(e) {e.preventDefault();
-        $("#wrapper").toggleClass("toggled");
     });
 }
 

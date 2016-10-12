@@ -34,6 +34,16 @@ function awaitButtonClicks() {
         animate();
         init();
     });
+
+    $(".v10head").click(function() {
+        object = "v10head";
+        objectHasValue = true;
+        $(".viewer").show();
+        $(".footer").show();
+        $(".homeScreen").hide();
+        animate();
+        init();
+    });
 }
 
 function init() {

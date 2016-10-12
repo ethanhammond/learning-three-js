@@ -154,11 +154,12 @@ body {
 
 .container {
     width: auto;
-    max-width: 680px;
     padding: 0 15px;
 }
 .container .text-muted {
-    margin: 20px 0;
+    margin: 20px 0 0 0;
 }
 
-/* Loading gif*/
+.footer-icon {
+    margin: 15px 0 0 0;
+}

@@ -124,7 +124,7 @@ function init() {
 
     function render() {
         renderer.render( scene, camera );
-        requestAnimationFrame(renderScene);
+        requestAnimationFrame(render);
 
         //Render the animation
         renderer.render(scene, camera);

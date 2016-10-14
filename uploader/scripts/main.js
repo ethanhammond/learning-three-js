@@ -82,10 +82,15 @@ function init() {
     camera.position.z = 50;
     camera.lookAt(scene.position);
 
-    //Create spotlight aimed at objects and add to scene
-    var pointLight = new THREE.PointLight(0xffffff);
-    pointLight.position.set( 40, 60, -10);
-    scene.add(pointLight);
+    //Create pointlight aimed at objects and add to scene
+    var topLight = new THREE.PointLight(0xffffff);
+    topLight.position.set( 40, -60, -20);
+    scene.add(topLight);
+
+    //Create pointlight aimed at objects and add to scene
+    var bottomLight = new THREE.PointLight(0xffffff);
+    bottomLight.position.set(40, 60, 20);
+    scene.add(bottomLight);
 
     //Add coordinate axis
     /*var axes = new THREE.AxisHelper( 100 );

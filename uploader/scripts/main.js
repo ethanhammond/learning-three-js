@@ -58,8 +58,10 @@ function init() {
     renderer.setSize(window.innerWidth, window.innerHeight);
     renderer.shadowMapEnabled = true;
 
-    var orbitControls = new THREE.OrbitControls(camera);
-    orbitControls.addEventListener( 'change', renderScene );
+    var controls = new THREE.OrbitControls( camera, renderer.domElement );
+    controls.enableDamping = true;
+    controls.dampingFactor = 0.25;
+    controls.enableZoom = false;
 
     //Set ground plane size and color
     var planeGeometry = new THREE.PlaneGeometry(0,0,0,0);
@@ -106,11 +108,17 @@ function init() {
     $("#WebGL-output").append(renderer.domElement);
 
     //Prep for animations
-    renderScene();
+    animate();
 
-    function renderScene() {
-        //Update FPS or render-time counter
+    function animate() {
+        requestAnimationFrame( animate );
+        controls.update(); // required if controls.enableDamping = true, or if controls.autoRotate = true
         stats.update();
+        render();
+    }
+
+    function render() {
+        renderer.render( scene, camera );
         requestAnimationFrame(renderScene);
 
         //Render the animation

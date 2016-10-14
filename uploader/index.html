@@ -21,28 +21,24 @@
 
     <body>
     <div id="wrapper">
-
         <div class="loader"></div>
-        <!-- Sidebar -->
-        <div id="sidebar-wrapper">
-            <ul class="sidebar-nav">
-                <li class="sidebar-brand"><a href="#">STL Viewer</a></li>
-                <li><a href="#menu-toggle" class="heatsink loadItem menu-toggle">Heat Sink</a></li>
-                <li><a href="#menu-toggle" class="gfxcard loadItem menu-toggle">Graphics Card</a></li>
-                <li><a href="#menu-toggle" class="v10head loadItem menu-toggle">V10 Head</a></li>
-            </ul>
-        </div>
 
         <!-- Page Content -->
         <div id="page-content-wrapper">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="homeScreen">
-                        <div class="col-md-12">
-                            <h1 class="text-center">Please select which model to view.</h1>
+                    <div class="col-md-12 homeScreen">
+                        <h1 class="text-center">Please select which model to view.</h1>
+                        <div class="col-md-4">
+                            <a href="#menu-toggle" class="heatsink loadItem menu-toggle">Heat Sink</a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="#menu-toggle" class="gfxcard loadItem menu-toggle">Graphics Card</a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="#menu-toggle" class="v10head loadItem menu-toggle">V10 Head</a>
                         </div>
                     </div>
-
                     <div class="viewer">
                         <div id="WebGL-output"></div>
                         <div id="Stats-output"></div>

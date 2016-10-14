@@ -92,6 +92,8 @@ function init() {
     bottomLight.position.set(40, 60, 20);
     scene.add(bottomLight);
 
+    window.addEventListener( 'resize', onWindowResize, false );
+
     //Add coordinate axis
     /*var axes = new THREE.AxisHelper( 100 );
      scene.add(axes);*/
@@ -111,6 +113,12 @@ function init() {
 
     //Place output of renderer in HTML
     $("#WebGL-output").append(renderer.domElement);
+
+    function onWindowResize() {
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize( window.innerWidth, window.innerHeight );
+    }
 
     //Prep for animations
     animate();
